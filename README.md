@@ -19,9 +19,7 @@ The Online Voting System is a comprehensive and user-friendly application that e
 ### Installing
 1. *Download the Program:*
    - Clone the repository from GitHub (or any other source provided).
-   - Example command:
-     bash
-     git clone https://github.com/your-repo/online-voting-system.git
+   
      
 2. *Install Required Libraries:*
    - Navigate to the project directory and install the dependencies.
