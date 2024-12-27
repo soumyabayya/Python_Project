@@ -1,5 +1,5 @@
 # Project Title
-#Online Voting System
+## Online Voting System
 
 ## Simple Overview of Use/Purpose
 An online voting system designed to facilitate secure, efficient, and fair elections. It allows users to cast votes, add candidates, and view election results, including visual representations using pie charts.
